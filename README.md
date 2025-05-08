@@ -3,6 +3,7 @@
 Supervisor : Ahmad Radhy, S.Si., M.Si
 
 Nama Kelompok :
+
 Muhammad Misbahul Huda - 2042221008
 Calrin Norika - 2042221026
 Christian Candra Winata - 2042221065
@@ -10,6 +11,7 @@ Christian Candra Winata - 2042221065
 **Monitoring Polution** ini berisi kumpulan modul yang dibuat dengan bahasa Rust, dan fungsinya untuk mengklasifikasi kualitas udara. Di dalamnya digunakan tiga algoritma utama, yaitu *Neural Network*, *Support Vector Machine* (SVM), dan *k-Nearest Neighbor* (kNN). Beberapa modul juga sudah terhubung dengan Qt supaya bisa menampilkan antarmuka yang interaktif dan gampang digunakan oleh pengguna.
 
 **Panduan Pengerjaan Proyek Monitoring Polution**
+
 1. instal ubuntu, rust, QT
 2. melakukan pemrograman Rust sine dan cosine menggunakan pendekatan taylor series
 3. melakukan pemrograman Rust sine dan cosine menggunakan lookup table
@@ -26,6 +28,7 @@ Christian Candra Winata - 2042221065
 14. Membuat PPT
     
 **Analisa Hasil Pembuatan Proyek**
+
 •	Efisiensi Bahasa Pemrograman Rust: Rust terbukti efisien dan cepat dalam memproses data selama eksperimen berlangsung.
 •	Penggunaan Rust memerlukan ketelitian tinggi, khususnya saat memakai library eksternal.
 •	Sintaks Rust bisa bervariasi tergantung pada fitur dari library yang digunakan (sebagian, keseluruhan, atau kombinasi tertentu).
