@@ -42,5 +42,5 @@ Nama Kelompok :
 11. Implementasi Neural Network dengan Qt: Neural Network dikembangkan menggunakan framework Qt dan menunjukkan hasil lebih baik dibanding SVM-KNN.
 12. Meskipun sintaks Qt untuk antarmuka pengguna berbeda dengan framework lain, adaptasi tetap dapat dilakukan dengan baik.
 13. Perbandingan Dataset 5000 vs 8000 Data: Dua dataset digunakan untuk pengujian: satu dengan 5000 data dan satu lagi dengan 8000 data.
-> Dataset 5000 data menghasilkan akurasi yang lebih tinggi dibanding dataset 8000 data.
-> Kemungkinan disebabkan oleh dataset 8000 data yang merupakan hasil augmentasi di Python, sehingga sebagian data menjadi kurang realistis dan menurunkan akurasi model.
+14. Dataset 5000 data menghasilkan akurasi yang lebih tinggi dibanding dataset 8000 data.
+15. Kemungkinan disebabkan oleh dataset 8000 data yang merupakan hasil augmentasi di Python, sehingga sebagian data menjadi kurang realistis dan menurunkan akurasi model.
